@@ -1,3 +1,5 @@
+# Desarrollos terapéuticos
+
 ## El SARS COV-2
 
 You can use the [editor on GitHub](https://github.com/erredeAxel/CdCMx2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -6,7 +8,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Ciclo Viral
 ![](https://user-images.githubusercontent.com/69702778/90322509-c83ff580-df1a-11ea-935f-51923630880c.png)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+1.	La entrada del virus se debe a la unión de la proteína Spike (S) con del receptor de la Enzima Convertidora de Angiotensina (ACE2 por sus siglas en inglés) para permitir la fusión con la membrana del huésped.
+2.	Tras esa unión se rompe la envoltura proteica en la que se encontraba el ARN viral y este es liberado en el citoplasma de la célula hospedera.
+3.	Después, el ARN viral es traducido por los ribosomas del hospedero para producir las proteínas pp1a y pp1ab.
+4.	Con estas proteínas se formará el Complejo de Transcripción-Replicación (RTC por sus siglas en inglés).
+5.	El RTC se encargará de la replicación del ARN viral, y este se seguirá replicando en la célula.
+6.	Mediante la transcripción de este ARN replicado, se formará ARNm subgenómico.
+7.	La traducción de este ARNm subgenómico producirá las proteínas estructurales del virus (S,M,N y E). Siendo así que las proteínas M,E y S se ensamblan en el Retículo Endoplásmico (RE) y la proteína N en el citoplasma para después ensamblarse con ARN viral replicado y formar la nucleoclápside de  la futura molécula viral.
+8.	Más adelante, las proteínas estructurales que se encontraban en el RE se transportan en el Compartimiento Intermedio de RE-Golgi
+9.	Posteriormente, esta envoltura se ensambla con la nucleocápside para formar una vesícula de Golgi con la molécula viral dentro.
+10.	La vesícula sale de la célula por medio de la exocitosis 
 
 ```markdown
 Syntax highlighted code block
