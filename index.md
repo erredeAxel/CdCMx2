@@ -45,29 +45,29 @@ Este receptor normalmente ayuda a regular la presión sanguínea, pero al encont
 
 ## ¿Qué órganos afecta el SARS-COV2?
 
-# Los pulmones
+### Los pulmones
 
 Si el sistema inmune no es capaz de derrotar al virus en esta primera etapa, éste viaja a través de la tráquea hacia los pulmones, en donde puede resultar mortal. Una vez en los pulmones, el virus ataca principalmente a los alvéolos, cuyas células también son ricas en receptores ACE2. Normalmente en los alvéolos se lleva a cabo el intercambio de oxígeno y dióxido de carbono en la sangre. Sin embargo, en presencia del virus, el sistema inmune libera unas moléculas llamadas quimiocinas y citocinas. Las primeras provocan una reacción de inflamación y las citocinas marcan a las células infectadas para destruirlas. Las células muertas se convierten en un fluido que comúnmente conocemos como pus. Ésta es la patología conocida como neumonía. Sus síntomas, ya los conocemos: tos, fiebre, y respiraciones rápidas y entrecortadas.
 
 La razón de tanta destrucción en los pulmones se encuentra en un fenómeno llamado cascada de citocinas, que puede ser interpretada como una reacción exagerada del sistema inmune. En esta cascada, los niveles de algunas citocinas se elevan demasiado, causando la destrucción de tejido sano.
 
-# El corazó
+### El corazón
 
 Algunas personas con COVID-19 llegan a las salas de urgencia con síntomas típicos de paro cardíaco. Se han registrado daños en el corazón, arritmias y coágulos sanguíneos causando la muerte del paciente. Esto se debe a bloqueos en las arterias que ocasionan aneurismas. La infección también parece causar constricción de los vasos sanguíneos, que provoca una condición llamada isquemia. Se trata una inflamación dolorosa y la muerte de tejidos en los dedos de pies y manos.
 
 Los científicos apenas comienzan a entender porque el virus causa tanto daño al sistema cardiovascular.  Dado que las células de este sistema son ricas en receptores ACE2, al igual que los alvéolos, esto podría permitir el acceso del virus.  O tal vez la falta de oxígeno causada por el daño a los pulmones es la causante del daño. Finalmente, la cascada de citocinas podría afectar al corazón de forma similar a los pulmones.
 
-# Los riñones
+### Los riñones
 
 En las células de los riñones también abunda el receptor ACE2, por lo que no está fuera de las posibilidades que el virus ataque a este órgano. En efecto, se ha observado en varios estudios un porcentaje alto de pacientes de COVID-19 que presentan daño renal, evidenciado por sangre y proteína en su orina. Muchos pacientes han fallecido por fallas renales graves.
 
-# El cerebro
+### El cerebro
 
 El receptor ACE2 se encuentra presente en el sistema nervioso, principalmente en la corteza cerebral. Aunque aún no se sabe a ciencia cierta si el virus puede penetrar el cerebro e interactuar con estos receptores, hay evidencias de que el coronavirus detrás de la epidemia del 2003 (SARS) — un pariente cercano del SARS-CoV-2 — es capaz de infiltrar las neuronas y en ocasiones causar encefalitis. Evidencias de el nuevo coronavirus en el fluido cerebroespinal sugieren que este podría ser el caso.
 
 Las ya mencionadas cascadas de citocinas y la tendencia de la sangre a formar coágulos,  podrían explicar los casos de derrame cerebral. Finalmente, la falta de oxígeno en la sangre  -causada por el daño a los pulmones-  puede causar daños irreversibles en el cerebro. Este sería otro factor de riesgo para sumar a la creciente lista de los daños que puede causar el pequeño virus.
 
-# Los intestinos
+### Los intestinos
 
 Desde el inicio de la pandemia se ha registrado que cerca del 20% los pacientes con un diagnóstico positivo a COVID-19 presentaban diarrea. Algunas personas incluso llegan a presentar sangrados intestinales, vómito y dolor abdominal,  cuadros sintomatológicos similares a los causados por parásitos gastrointestinales.
 
