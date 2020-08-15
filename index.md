@@ -7,7 +7,7 @@ Algunos puntos a destacar son los siguientes:
 
 •	**Sus siglas significan** _severe acute respiratory syndrome coronavirus 2_, que se traduce al español como _coronavirus tipo 2 del síndrome respiratorio agudo grave_
 
-•	**Lugar de primer brote:** Provincia de Hubain, Wuhan, China.
+•	**Lugar de primer brote:** Provincia de Hubei, Wuhan, China.
 
 •	**Fecha del primer paciente con síntomas de la enfermedad:** 8 de diciembre de 2019
 
@@ -36,30 +36,40 @@ Algunos puntos a destacar son los siguientes:
 
 **10.**	La vesícula sale de la célula por medio de la exocitosis.
 
-```markdown
-Syntax highlighted code block
+## ¿Cómo se da la infección de COVID-19?
 
-# Header 1
-## Header 2
-### Header 3
+Las primeras barreras inmunitarias de nuestro organismo son las mucosas (nariz, boca, ojos), por lo que el virus comienza como una gripa común.
+Cuando el pequeño virus encuentra su camino a través del tracto respiratorio, la proteína S (o proteína Spike) del virus se une a un receptor, llamado enzima convertidora de angiotensina (ACE2 por sus siglas en inglés), muy común en todo el cuerpo humano y muy abundante en los recubrimientos al interior de la nariz.
 
-- Bulleted
-- List
+Este receptor normalmente ayuda a regular la presión sanguínea, pero al encontrarse con la proteína S permite el acceso del virus a las células. Una vez dentro de una célula, el virus secuestra la maquinaria celular para producir más copias de sí mismo. A medida que el virus se multiplica, las personas pueden o no presentar síntomas (tos seca, fiebre, garganta irritada, pérdida del olfato y el gusto y/o dolores de cabeza y cuerpo). **En ambos casos, las personas infectadas liberan una gran cantidad de partículas virales a su alrededor y son altamente contagiosas.**
 
-1. Numbered
-2. List
+## ¿Qué órganos afecta el SARS-COV2?
 
-**Bold** and _Italic_ and `Code` text
+# Los pulmones
 
-[Link](url) and ![Image](src)
-```
+Si el sistema inmune no es capaz de derrotar al virus en esta primera etapa, éste viaja a través de la tráquea hacia los pulmones, en donde puede resultar mortal. Una vez en los pulmones, el virus ataca principalmente a los alvéolos, cuyas células también son ricas en receptores ACE2. Normalmente en los alvéolos se lleva a cabo el intercambio de oxígeno y dióxido de carbono en la sangre. Sin embargo, en presencia del virus, el sistema inmune libera unas moléculas llamadas quimiocinas y citocinas. Las primeras provocan una reacción de inflamación y las citocinas marcan a las células infectadas para destruirlas. Las células muertas se convierten en un fluido que comúnmente conocemos como pus. Ésta es la patología conocida como neumonía. Sus síntomas, ya los conocemos: tos, fiebre, y respiraciones rápidas y entrecortadas.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+La razón de tanta destrucción en los pulmones se encuentra en un fenómeno llamado cascada de citocinas, que puede ser interpretada como una reacción exagerada del sistema inmune. En esta cascada, los niveles de algunas citocinas se elevan demasiado, causando la destrucción de tejido sano.
 
-### Jekyll Themes
+# El corazó
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erredeAxel/CdCMx2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Algunas personas con COVID-19 llegan a las salas de urgencia con síntomas típicos de paro cardíaco. Se han registrado daños en el corazón, arritmias y coágulos sanguíneos causando la muerte del paciente. Esto se debe a bloqueos en las arterias que ocasionan aneurismas. La infección también parece causar constricción de los vasos sanguíneos, que provoca una condición llamada isquemia. Se trata una inflamación dolorosa y la muerte de tejidos en los dedos de pies y manos.
 
-### Support or Contact
+Los científicos apenas comienzan a entender porque el virus causa tanto daño al sistema cardiovascular.  Dado que las células de este sistema son ricas en receptores ACE2, al igual que los alvéolos, esto podría permitir el acceso del virus.  O tal vez la falta de oxígeno causada por el daño a los pulmones es la causante del daño. Finalmente, la cascada de citocinas podría afectar al corazón de forma similar a los pulmones.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Los riñones
+
+En las células de los riñones también abunda el receptor ACE2, por lo que no está fuera de las posibilidades que el virus ataque a este órgano. En efecto, se ha observado en varios estudios un porcentaje alto de pacientes de COVID-19 que presentan daño renal, evidenciado por sangre y proteína en su orina. Muchos pacientes han fallecido por fallas renales graves.
+
+# El cerebro
+
+El receptor ACE2 se encuentra presente en el sistema nervioso, principalmente en la corteza cerebral. Aunque aún no se sabe a ciencia cierta si el virus puede penetrar el cerebro e interactuar con estos receptores, hay evidencias de que el coronavirus detrás de la epidemia del 2003 (SARS) — un pariente cercano del SARS-CoV-2 — es capaz de infiltrar las neuronas y en ocasiones causar encefalitis. Evidencias de el nuevo coronavirus en el fluido cerebroespinal sugieren que este podría ser el caso.
+
+Las ya mencionadas cascadas de citocinas y la tendencia de la sangre a formar coágulos,  podrían explicar los casos de derrame cerebral. Finalmente, la falta de oxígeno en la sangre  -causada por el daño a los pulmones-  puede causar daños irreversibles en el cerebro. Este sería otro factor de riesgo para sumar a la creciente lista de los daños que puede causar el pequeño virus.
+
+# Los intestinos
+
+Desde el inicio de la pandemia se ha registrado que cerca del 20% los pacientes con un diagnóstico positivo a COVID-19 presentaban diarrea. Algunas personas incluso llegan a presentar sangrados intestinales, vómito y dolor abdominal,  cuadros sintomatológicos similares a los causados por parásitos gastrointestinales.
+
+Curiosamente, el tracto gastrointestinal está plagado del crucial receptor ACE2. Aún no se sabe si el virus puede replicarse en las células del sistema digestivo, pero se han encontrado evidencias de su presencia en muestras de heces de pacientes infectados. Este podría ser otro mecanismo de contagio del virus, aunque el riesgo de infección por transmisión fecal es aparentemente bajo.
+
