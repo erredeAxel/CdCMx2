@@ -2,9 +2,15 @@
 
 ## El SARS COV-2
 
-You can use the [editor on GitHub](https://github.com/erredeAxel/CdCMx2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+•	Sus siglas significan severe acute respiratory syndrome coronavirus 2, que se traduce al español como coronavirus tipo 2 del síndrome respiratorio agudo grave
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+•	**Lugar de primer brote:** Provincia de Hubain, Wuhan, China.
+
+•	**Fecha del primer paciente con síntomas de la enfermedad:** 8 de diciembre de 2019
+
+•	**Síntomas:** Los síntomas por COVID 19 pueden hacerse presentes entre los dos y los 14 días después de haber estado expuesto al virus (a lo que se llama periodo de incubación)
+
+•	**Factores de riesgo asociados:** 
 
 ### Ciclo Viral
 ![](https://user-images.githubusercontent.com/69702778/90322509-c83ff580-df1a-11ea-935f-51923630880c.png)
