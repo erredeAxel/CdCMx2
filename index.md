@@ -20,7 +20,7 @@ Algunos puntos a destacar son los siguientes:
 
 •	**Medidas de prevención:** Lavarse las manos con frecuencia (usar agua y jabón o un desinfectante de manos a base de alcohol); mantener una distancia de seguridad con personas que tosan o estornuden; utilizar cubrebocas cuando no sea posible mantener el distanciamiento físico; no te tocar los ojos, la nariz ni la boca; al toser o estornudar, cubrirse la nariz y la boca con el codo flexionado o con un pañuelo; y si está dentro de sus posibilidades, quedarse en casa
 
-Para más información vistita [](https://www.who.int/images/default-source/health-topics/coronavirus/medical-mask-infographic-sp.jpg?sfvrsn=cb3153cf_11)
+Para más información vistita el siguiente [link](https://www.who.int/images/default-source/health-topics/coronavirus/medical-mask-infographic-sp.jpg?sfvrsn=cb3153cf_11)
 
 ## Esquema de la molécula viral del SARS COV-2
 
