@@ -51,6 +51,8 @@ Si el sistema inmune no es capaz de derrotar al virus en esta primera etapa, és
 
 La razón de tanta destrucción en los pulmones se encuentra en un fenómeno llamado cascada de citocinas, que puede ser interpretada como una reacción exagerada del sistema inmune. En esta cascada, los niveles de algunas citocinas se elevan demasiado, causando la destrucción de tejido sano.
 
+![](https://user-images.githubusercontent.com/69617478/90323172-2a045d80-df23-11ea-97dd-674df0ec11d3.png)
+
 ### El corazón
 
 Algunas personas con COVID-19 llegan a las salas de urgencia con síntomas típicos de paro cardíaco. Se han registrado daños en el corazón, arritmias y coágulos sanguíneos causando la muerte del paciente. Esto se debe a bloqueos en las arterias que ocasionan aneurismas. La infección también parece causar constricción de los vasos sanguíneos, que provoca una condición llamada isquemia. Se trata una inflamación dolorosa y la muerte de tejidos en los dedos de pies y manos.
