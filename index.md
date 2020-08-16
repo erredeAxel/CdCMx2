@@ -63,7 +63,7 @@ Los científicos apenas comienzan a entender porque el virus causa tanto daño a
 
 En las células de los riñones también abunda el receptor ACE2, por lo que no está fuera de las posibilidades que el virus ataque a este órgano. En efecto, se ha observado en varios estudios un porcentaje alto de pacientes de COVID-19 que presentan daño renal, evidenciado por sangre y proteína en su orina. Muchos pacientes han fallecido por fallas renales graves.
 
-![](https://user-images.githubusercontent.com/69617478/90323342-984a1f80-df25-11ea-8927-3697a62c320f.png)
+![](https://user-images.githubusercontent.com/69617478/90323265-af3c4200-df24-11ea-8539-157f03920dc9.png)
 
 ### El cerebro
 
