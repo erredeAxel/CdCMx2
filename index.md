@@ -158,6 +158,6 @@ Universidad Autónoma del Estado de Hidalgo
 
 Axel Rodríguez Pérez 
 
-Estudiante de Bachuillerato
+Estudiante de Bachillerato
 
 Escuela Nacional Preparatoria No. 9 "Pedro de Alba"
