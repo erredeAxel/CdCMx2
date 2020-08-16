@@ -1,2 +1,3 @@
-# CdCMx2
-https://erredeaxel.github.io/CdCMx2/
+# Clubes de Ciencia Challenge 2020
+
+
