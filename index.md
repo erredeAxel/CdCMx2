@@ -18,6 +18,8 @@ Algunos puntos a destacar son los siguientes:
 
 •	**Síntomas:** Los síntomas por COVID 19 pueden hacerse presentes entre los dos y los 14 días después de haber estado expuesto al virus (a lo que se llama periodo de incubación). Los síntomas más comunes son: fiebre, tos y cansancio. Sin embargo, también pueden presentarse dolores musculares, dificultad al respirar, dolor en la garganta, goteo de la nariz, dolor de cabeza y dolor en el pecho.
 
+•	**Medidas de prevención:** Lavarse las manos con frecuencia (usar agua y jabón o un desinfectante de manos a base de alcohol); mantener una distancia de seguridad con personas que tosan o estornuden; utilizar cubrebocas cuando no sea posible mantener el distanciamiento físico; no te tocar los ojos, la nariz ni la boca; al toser o estornudar, cubrirse la nariz y la boca con el codo flexionado o con un pañuelo; y si está dentro de sus posibilidades, quedarse en casa
+
 ### Ciclo Viral
 ![](https://user-images.githubusercontent.com/69702778/90322509-c83ff580-df1a-11ea-935f-51923630880c.png)
 
