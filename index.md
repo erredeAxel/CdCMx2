@@ -116,6 +116,22 @@ Estos estudios iniciales confirmaron que la vacuna fue capaz de generar anticuer
 
 •	He, J., Tao, H., Yan, Y., Huang, S.-Y., & Xiao, Y. (2020). Molecular Mechanism of Evolution and Human. _Viruses_, 11.
 
+• Wadman, M., Couzin-Frankel, J., Kaiser,, J, Matacic, C. How does coronavirus kill? Clinicians trace a ferocious rampage through the body, from brain to toes. https://www.sciencemag.org/news/2020/04/how-does-coronavirus-kill-clinicians-trace-ferocious-rampage-through-body-brain-toes
+https://doi.org/10.1126/science.abc3208 
+
+•	Sungnak, W., Huang, N., Bécavin, C. et al. SARS-CoV-2 entry factors are highly expressed in nasal epithelial cells together with innate immune genes. Nat Med (2020). https://doi.org/10.1038/s41591-020-0868-6
+
+•	Mao L, Jin H, Wang M, et al. Neurologic Manifestations of Hospitalized Patients With Coronavirus Disease 2019 in Wuhan, China. JAMA Neurol. Published online April 10, 2020. https://doi.org/10.1001/jamaneurol.2020.1127 
+
+•	Driggin, E., Madhavan, M. V., Bikdeli, B., Chuich, T., Laracy, J., Bondi-Zoccai, G., ... & Brodie, D. (2020). Cardiovascular considerations for patients, health care workers, and health systems during the coronavirus disease 2019 (COVID-19) pandemic. Journal of the American College of Cardiology.
+https://doi.org/10.1016/j.jacc.2020.03.031 
+
+•	Diao, B., Feng, Z., Wang, C., Wang, H., Liu, L., Wang, C.,  & Yuan, Z. (2020). Human kidney is a target for novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. medRxiv.
+https://doi.org/10.1101/2020.03.04.20031120
+
+•	Moriguchi, T., Harii, N., Goto, J., Harada, D., Sugawara, H., Takamino, J., ... & Nakao, A. (2020). A first Case of Meningitis/Encephalitis associated with SARS-Coronavirus-2. International Journal of Infectious Diseases.
+https://doi.org/10.1016/j.ijid.2020.03.062
+
 ## Equipo 
 
 <p align="center">
@@ -136,7 +152,9 @@ Licenciatura en Biología
 
 Universidad Autónoma del Estado de Hidalgo
 
-![]()
+<p align="center">
+  <img width="260" height="330" src="https://user-images.githubusercontent.com/69702778/90325270-2bdc1a00-df3f-11ea-9986-f04ac66f70a3.jpg">
+</p>
 
 Axel Rodríguez Pérez 
 
