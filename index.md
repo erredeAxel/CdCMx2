@@ -1,6 +1,8 @@
 # Desarrollos terapéuticos
+![](https://user-images.githubusercontent.com/69702778/90323784-866b7b00-df2b-11ea-8e66-f8711d66183a.png)
 
 ## El SARS COV-2
+
 En las últimas dos décadas, el ser humano se ha enfrentado a varios brotes de enfermedades virales: ébola, la gripe A(H1N1), el SARS, el MERS, el Zika, entre otras; las cuales han causado estragos económicos y sociales importantes a nivel global. En tiempos más recientes, la pandemia por el SARS COV-2 ha paralizado prácticamente a la economía mundial y a varios sistemas de salud alrededor del globo, traduciéndose esto a miles de defunciones y otros tantos millones de infectados. Es por eso que en este trabajo desmenuzaremos el funcionamiento del coronavirus dentro de las células del cuerpo humano, su ciclo de replicación, y específicamente qué es lo que hace dentro de los órganos que se ven afectados.  
 
 Algunos puntos a destacar son los siguientes:
@@ -78,4 +80,15 @@ Desde el inicio de la pandemia se ha registrado que cerca del 20% los pacientes 
 Curiosamente, el tracto gastrointestinal está plagado del crucial receptor ACE2. Aún no se sabe si el virus puede replicarse en las células del sistema digestivo, pero se han encontrado evidencias de su presencia en muestras de heces de pacientes infectados. Este podría ser otro mecanismo de contagio del virus, aunque el riesgo de infección por transmisión fecal es aparentemente bajo.
 
 ![](https://user-images.githubusercontent.com/69617478/90323342-984a1f80-df25-11ea-8927-3697a62c320f.png)
+
+## Vacuna contra el SARS-COV2
+
+El lunes 20 de julio el proyecto de vacuna de la Universidad de Oxford, reveló los resultados provisionales del ensayo COV001 Fase I / II en curso que mostraron que AZD1222 fue tolerado y generó respuestas inmunes sólidas contra el virus SARS-CoV-2 en todos los participantes evaluados. De todos los proyectos para prevenir el COVID-19 el la Universidad de Oxford parece ser uno de los más avanzados y prometedores.
+
+Estos estudios iniciales confirmaron que la vacuna fue capaz de generar anticuerpos en los seres humanos y no tiene eventos adversos severos. Según advirtieron los voceros científicos de AstraZeneca y los científicos de Oxford a Infobae: “Los datos de fase I / II en 1.077 voluntarios adultos sanos entre los 18 y 55 años muestran que la vacuna no condujo a ninguna reacción inesperada y tuvo un perfil de seguridad similar a las vacunas anteriores de este tipo”.
+
+“La vacuna tomará un tiempo. Empezamos este trabajo al comienzo del año y nuestra intención es movernos lo más rápido posible con la tecnología que tenemos a nuestro alcance. Todos están trabajando muy duro para poder alcanzar los resultados y nuestra esperanza es poder empezar a distribuirla antes de que termine el año”, le había asegurado a Infobae Pascal Soriot, director ejecutivo de AstraZeneca, la multinacional farmacéutica anglo-sueca en asociación con la Universidad de Oxford, durante el lanzamiento web de los resultados.
+
+“La vacuna de Oxford es muy interesante porque es la única que utliza adenovirus de chimpacé”. Lo precisó a Infobae el doctor Ricardo Rüttimann, médico infectólogo de la Fundación del Centro de Estudios Infectológicos. Remarcó el mismo punto el infectólogo Eduardo López: “Es una muy buena vacuna. Es una vacuna vectorial, adenovirus de chimpancé”.
+
 
