@@ -22,7 +22,7 @@ Algunos puntos a destacar son los siguientes:
 
 Para más información vistita [](https://www.who.int/images/default-source/health-topics/coronavirus/medical-mask-infographic-sp.jpg?sfvrsn=cb3153cf_11)
 
-## Esquema de la moécula viral del SARS COV-2
+## Esquema de la molécula viral del SARS COV-2
 ![](https://user-images.githubusercontent.com/69702778/90324498-2e397680-df35-11ea-844f-78732f4b5ad6.png)
 
 ## Ciclo Viral
@@ -107,3 +107,34 @@ Estos estudios iniciales confirmaron que la vacuna fue capaz de generar anticuer
 
 ## Referencias
 
+•	Tu, Y. (2020). A Review of SARS-CoV-2 and the Ongoing Clinical Trials. _Internacional Journey of molecular science_, 19. 
+
+•	Boopathi, S., Poma, A. B., & Kolandaivel, P. (2020). Novel 2019 Coronavirus Structure, Mechanism. _Journal of Biomolecular Structure and Dynamics_ , 18 .
+
+•	He, J., Tao, H., Yan, Y., Huang, S.-Y., & Xiao, Y. (2020). Molecular Mechanism of Evolution and Human. _Viruses_, 11.
+
+## Equipo 
+
+![]()
+
+Luis Javier Manzano Alcántara
+
+Ingeniería en Sistemas Biológicos
+
+Universidad de Guadalajara 
+
+![]()
+
+Ana Karen Rodríguez Islas
+
+Licenciatura en Biología
+
+Universidad Autónoma del Estado de Hidalgo
+
+![]()
+
+Axel Rodríguez Pérez 
+
+Estudiante de Bachuillerato
+
+Escuela Nacional Preparatoria No. 9 "Pedro de Alba"
