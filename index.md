@@ -63,6 +63,8 @@ Los científicos apenas comienzan a entender porque el virus causa tanto daño a
 
 En las células de los riñones también abunda el receptor ACE2, por lo que no está fuera de las posibilidades que el virus ataque a este órgano. En efecto, se ha observado en varios estudios un porcentaje alto de pacientes de COVID-19 que presentan daño renal, evidenciado por sangre y proteína en su orina. Muchos pacientes han fallecido por fallas renales graves.
 
+![](https://user-images.githubusercontent.com/69617478/90323342-984a1f80-df25-11ea-8927-3697a62c320f.png)
+
 ### El cerebro
 
 El receptor ACE2 se encuentra presente en el sistema nervioso, principalmente en la corteza cerebral. Aunque aún no se sabe a ciencia cierta si el virus puede penetrar el cerebro e interactuar con estos receptores, hay evidencias de que el coronavirus detrás de la epidemia del 2003 (SARS) — un pariente cercano del SARS-CoV-2 — es capaz de infiltrar las neuronas y en ocasiones causar encefalitis. Evidencias de el nuevo coronavirus en el fluido cerebroespinal sugieren que este podría ser el caso.
@@ -74,4 +76,6 @@ Las ya mencionadas cascadas de citocinas y la tendencia de la sangre a formar co
 Desde el inicio de la pandemia se ha registrado que cerca del 20% los pacientes con un diagnóstico positivo a COVID-19 presentaban diarrea. Algunas personas incluso llegan a presentar sangrados intestinales, vómito y dolor abdominal,  cuadros sintomatológicos similares a los causados por parásitos gastrointestinales.
 
 Curiosamente, el tracto gastrointestinal está plagado del crucial receptor ACE2. Aún no se sabe si el virus puede replicarse en las células del sistema digestivo, pero se han encontrado evidencias de su presencia en muestras de heces de pacientes infectados. Este podría ser otro mecanismo de contagio del virus, aunque el riesgo de infección por transmisión fecal es aparentemente bajo.
+
+![](https://user-images.githubusercontent.com/69617478/90323342-984a1f80-df25-11ea-8927-3697a62c320f.png)
 
