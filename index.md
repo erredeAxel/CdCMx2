@@ -23,7 +23,10 @@ Algunos puntos a destacar son los siguientes:
 Para más información vistita [](https://www.who.int/images/default-source/health-topics/coronavirus/medical-mask-infographic-sp.jpg?sfvrsn=cb3153cf_11)
 
 ## Esquema de la molécula viral del SARS COV-2
-![](https://user-images.githubusercontent.com/69702778/90324498-2e397680-df35-11ea-844f-78732f4b5ad6.png)
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/69702778/90324498-2e397680-df35-11ea-844f-78732f4b5ad6.png">
+</p>
 
 ## Ciclo Viral
 ![](https://user-images.githubusercontent.com/69702778/90322509-c83ff580-df1a-11ea-935f-51923630880c.png)
@@ -115,7 +118,9 @@ Estos estudios iniciales confirmaron que la vacuna fue capaz de generar anticuer
 
 ## Equipo 
 
-![]()
+<p align="center">
+  <img width="230" height="330" src="https://user-images.githubusercontent.com/69702778/90325111-34cbec00-df3d-11ea-9761-da6854015bff.png">
+</p>
 
 Luis Javier Manzano Alcántara
 
