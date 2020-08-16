@@ -45,6 +45,8 @@ Cuando el pequeño virus encuentra su camino a través del tracto respiratorio, 
 
 Este receptor normalmente ayuda a regular la presión sanguínea, pero al encontrarse con la proteína S permite el acceso del virus a las células. Una vez dentro de una célula, el virus secuestra la maquinaria celular para producir más copias de sí mismo. A medida que el virus se multiplica, las personas pueden o no presentar síntomas (tos seca, fiebre, garganta irritada, pérdida del olfato y el gusto y/o dolores de cabeza y cuerpo). **En ambos casos, las personas infectadas liberan una gran cantidad de partículas virales a su alrededor y son altamente contagiosas.**
 
+![](https://user-images.githubusercontent.com/69617478/90323197-85365000-df23-11ea-876a-69b2124da7cd.png)
+
 ## ¿Qué órganos afecta el SARS-COV2?
 
 ### Los pulmones
@@ -84,6 +86,8 @@ Curiosamente, el tracto gastrointestinal está plagado del crucial receptor ACE2
 ## Vacuna contra el SARS-COV2
 
 El lunes 20 de julio el proyecto de vacuna de la Universidad de Oxford, reveló los resultados provisionales del ensayo COV001 Fase I / II en curso que mostraron que AZD1222 fue tolerado y generó respuestas inmunes sólidas contra el virus SARS-CoV-2 en todos los participantes evaluados. De todos los proyectos para prevenir el COVID-19 el la Universidad de Oxford parece ser uno de los más avanzados y prometedores.
+
+![](https://user-images.githubusercontent.com/69617478/90323708-9898e980-df2a-11ea-9e33-b0a48448c6e4.png)
 
 Estos estudios iniciales confirmaron que la vacuna fue capaz de generar anticuerpos en los seres humanos y no tiene eventos adversos severos. Según advirtieron los voceros científicos de AstraZeneca y los científicos de Oxford a Infobae: “Los datos de fase I / II en 1.077 voluntarios adultos sanos entre los 18 y 55 años muestran que la vacuna no condujo a ninguna reacción inesperada y tuvo un perfil de seguridad similar a las vacunas anteriores de este tipo”.
 
