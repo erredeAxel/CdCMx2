@@ -144,7 +144,9 @@ Ingeniería en Sistemas Biológicos
 
 Universidad de Guadalajara 
 
-![]()
+<p align="center">
+  <img width="230" height="330" src="https://user-images.githubusercontent.com/69702778/90326551-25ee3500-df4f-11ea-95d1-adbbfeb43d76.png">
+</p>
 
 Ana Karen Rodríguez Islas
 
